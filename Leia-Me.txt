@@ -1,0 +1,11 @@
+AS AVENTURAS ÉPICAS DE UM GOBLIN NO ESPAÇO
+
+Linguagem/Engines/Bibliotecas: Java.
+Propósito: Disciplina de Programação Orientada a Objetos.
+
+Equipe:
+
+Gabriel Almeida
+Hamilton Santos
+Kledilson Oliveira
+Lucas Favaro
