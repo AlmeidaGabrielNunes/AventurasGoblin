@@ -1,7 +1,7 @@
-AS AVENTURAS ÉPICAS DE UM GOBLIN NO ESPAÇO
+AS AVENTURAS Ã‰PICAS DE UM GOBLIN NO ESPAÃ‡O
 
 Linguagem/Engines/Bibliotecas: Java.
-Propósito: Disciplina de Programação Orientada a Objetos.
+PropÃ³sito: Disciplina de ProgramaÃ§Ã£o Orientada a Objetos. Do Curso Tecnologia em Jogos Digitais na Fatec
 
 Equipe:
 
